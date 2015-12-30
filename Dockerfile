@@ -1,4 +1,7 @@
 #
+# Example from: https://docs.docker.com/engine/examples/apt-cacher-ng
+# Docker hub: https://hub.docker.com/r/joaquindlz/docker-apt-cacher-ng/
+#
 # Build: docker build -t apt-cacher .
 # Run: docker run -d -p 3142:3142 --name apt-cacher-run apt-cacher
 #
